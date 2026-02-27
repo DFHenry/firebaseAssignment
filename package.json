@@ -1,0 +1,12 @@
+{
+  "name": "firebase-demo",
+  "version": "1.0.0",
+  "description": "firebase demo for Workshops 2",
+  "license": "ISC",
+  "author": "David Henry",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
